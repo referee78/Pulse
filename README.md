@@ -1,2 +1,2 @@
 # Pulse
-https://referee78.github.io/index
+https://referee78.github.io/Pulse/index
